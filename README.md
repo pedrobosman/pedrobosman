@@ -4,7 +4,7 @@
 <img title="Pedro J's GitHub Stats" align="right" heigth="300" width="400" src="https://github-readme-stats.vercel.app/api?username=pedrobosman&hide=issues&count_private=true&icon_color=871489&title_color=01057d&bg_color=DEG,ffffff,e8ecfd&show_icons=true)"
 />
 -->
-📬 Reach me: pedro.barros@ee.ufcg.edu.br
+📬 Reach me: pedrojacobbb@gmail.com
 
 [<img src="https://img.shields.io/github/followers/pedrobosman?label=follow&style=social" height="22" title="Follow me" />](https://github.com/pedrobosman) 
 [<img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pedrojbbarros" height="22" title="LinkedIn" />](https://www.linkedin.com/in/pedrojbbarros) 
